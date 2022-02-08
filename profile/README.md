@@ -1,4 +1,4 @@
-![ASDI](./readme.png)
+![ASDI](readme.png)
 <br/>
 <br/>
 
